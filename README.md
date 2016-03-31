@@ -6,5 +6,5 @@ The second page has a button that will show the device'e network connection.
 
 It make uses of Jquery Mobile (JQM) for its UI and the following plugins:
 - [Dialogs (notification)](https://github.com/apache/cordova-plugin-dialogs)
-- Network Information
-- Vibration
+- [Network Information](https://github.com/apache/cordova-plugin-network-information)
+- [Vibration](https://github.com/apache/cordova-plugin-vibration)
